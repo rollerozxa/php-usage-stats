@@ -1,11 +1,9 @@
 # PHP Usage stats
-Basic cute bar graph images to show the disk and memory usage.
+Simple PHP scripts to generate cute dynamic bar graph images to show the disk and memory usage of a server.
 
 Requires the PHP GD extension to generate the images on the fly. Also probably only works on Linux.
 
 ## Example
-![](https://grejer.voxelmanip.se/stats_diskusage.php)
+![](example_diskusage.png)
 
-![](https://grejer.voxelmanip.se/stats_memusage.php)
-
-Also see the [Voxelmanip Server page](http://51.68.173.17).
+![](example_memusage.png)
